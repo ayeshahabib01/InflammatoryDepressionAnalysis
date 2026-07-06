@@ -1,9 +1,7 @@
-# Stratifying Depression Subtypes via Systemic Inflammation
+# Identifying Depression Subtypes via Systemic Inflammation
 
 ## The Problem
-* **The Challenge:** Over 30% of patients with Major Depressive Disorder do not respond to standard SSRI antidepressants because depression is treated as a single, uniform condition.
-* **The Solution:** Clinical research suggests a distinct biological subtype exists: Inflammatory Depression. 
-* **The Goal:** This project analyzes NHANES data to separate depressed cohorts into distinct biological biotypes (high vs. low inflammation) and identifies the underlying behavioral and socioeconomic factors that define them.
+Over 30% of patients with Major Depressive Disorder do not respond to standard SSRI antidepressants because depression is treated as a single, uniform condition. Clinical research suggests a distinct biological subtype exists: Inflammatory Depression. This project analyzes NHANES data to separate depressed cohorts into distinct biological biotypes (high vs. low inflammation) and identifies the underlying behavioral and socioeconomic factors that define them.
 
 ---
 
